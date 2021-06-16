@@ -1,0 +1,17 @@
+Use Machine Learning to predict outcomes of a match
+
+Requirements for the player:
+1) All matches in last year or last 50 matches
+2) Only main events
+
+Variables we have:
+1) Sets played
+2) Bookmakers odds before the match
+
+Scope:
+1) Get the input of a player
+2) Go to TennisPrediction
+3) Check for the requirements
+4) If requirements are met get the data for a player
+5) Plot a graph, odds vs average games played in the second set
+
